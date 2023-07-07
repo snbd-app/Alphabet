@@ -162,6 +162,6 @@
   "image" : "textformat.abc",
   "sorts" : "[{\"sortValue\":\"customSortIndex\",\"isForward\":true}]",
   "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
-  "description" : "The 26 letters of the English alphabet",
+  "description" : "The 26 letters of the English alphabet.",
   "name" : "Alphabet"
 }
