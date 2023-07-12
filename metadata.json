@@ -1,157 +1,157 @@
 {
   "sounds" : [
     {
-      "customSortIndex" : 0,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "A",
       "image" : "a.square.fill",
       "color" : "EBB8A0"
     },
     {
-      "customSortIndex" : 1,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "B",
       "image" : "b.square.fill",
       "color" : "F2A984"
     },
     {
-      "customSortIndex" : 2,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "C",
       "image" : "c.square.fill",
       "color" : "D2E7BA"
     },
     {
-      "customSortIndex" : 3,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "D",
       "image" : "d.square.fill",
       "color" : "409069"
     },
     {
-      "customSortIndex" : 4,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "E",
       "image" : "e.square.fill",
       "color" : "B8E6FC"
     },
     {
-      "customSortIndex" : 5,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "F",
       "image" : "f.square.fill",
       "color" : "EF8982"
     },
     {
-      "customSortIndex" : 6,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "G",
       "image" : "g.square.fill",
       "color" : "D68375"
     },
     {
-      "customSortIndex" : 7,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "H",
       "image" : "h.square.fill",
       "color" : "F4B993"
     },
     {
-      "customSortIndex" : 8,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "I",
       "image" : "i.square.fill",
       "color" : "EE806A"
     },
     {
-      "customSortIndex" : 9,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "J",
       "image" : "j.square.fill",
       "color" : "D1A48D"
     },
     {
-      "customSortIndex" : 10,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "K",
       "image" : "k.square.fill",
       "color" : "C1987C"
     },
     {
-      "customSortIndex" : 11,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "L",
       "image" : "l.square.fill",
       "color" : "99968D"
     },
     {
-      "customSortIndex" : 12,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "M",
       "image" : "m.square.fill",
       "color" : "86887E"
     },
     {
-      "customSortIndex" : 13,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "N",
       "image" : "n.square.fill",
       "color" : "F0908F"
     },
     {
-      "customSortIndex" : 14,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "O",
       "image" : "o.square.fill",
       "color" : "EE837F"
     },
     {
-      "customSortIndex" : 15,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "P",
       "image" : "p.square.fill",
       "color" : "F4BA70"
     },
     {
-      "customSortIndex" : 16,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "Q",
       "image" : "q.square.fill",
       "color" : "F7CC4D"
     },
     {
-      "customSortIndex" : 17,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "R",
       "image" : "r.square.fill",
       "color" : "C2A86B"
     },
     {
-      "customSortIndex" : 18,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "S",
       "image" : "s.square.fill",
       "color" : "609F82"
     },
     {
-      "customSortIndex" : 19,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "T",
       "image" : "t.square.fill",
       "color" : "44716E"
     },
     {
-      "customSortIndex" : 20,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "U",
-      "image" : "u.square.fill",
-      "color" : "54827C"
+      "color" : "54827C",
+      "image" : "u.square.fill"
     },
     {
-      "customSortIndex" : 21,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "V",
       "image" : "v.square.fill",
       "color" : "763A2E"
     },
     {
-      "customSortIndex" : 22,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "W",
       "image" : "w.square.fill",
       "color" : "BC554C"
     },
     {
-      "customSortIndex" : 23,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "X",
       "image" : "x.square.fill",
       "color" : "F3B371"
     },
     {
-      "customSortIndex" : 24,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "Y",
       "image" : "y.square.fill",
       "color" : "A8703D"
     },
     {
-      "customSortIndex" : 25,
+      "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
       "name" : "Z",
       "image" : "z.square.fill",
       "color" : "C59A58"
@@ -160,7 +160,7 @@
   "color" : "65909C",
   "showGridSoundLabels" : false,
   "image" : "textformat.abc",
-  "sorts" : "[{\"sortValue\":\"customSortIndex\",\"isForward\":true}]",
+  "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
   "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
   "description" : "The 26 letters of the English alphabet.",
   "name" : "Alphabet"
