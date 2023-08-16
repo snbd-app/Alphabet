@@ -163,5 +163,7 @@
   "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
   "audioSource" : "https:\/\/en.wikipedia.org\/wiki\/English_alphabet",
   "description" : "The 26 letters of the English alphabet.",
+  "duration" : 13,
+  "size" : 2515092,
   "name" : "Alphabet"
 }
